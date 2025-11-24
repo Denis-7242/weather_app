@@ -55,5 +55,3 @@ const String apiKey = "YOUR_API_KEY_HERE";
 flutter run
 ```
 ---
-=======
->>>>>>> e27da59850b8e7c28f7921c5c4bf789ac4ec3e13
