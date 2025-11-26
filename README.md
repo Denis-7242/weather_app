@@ -55,3 +55,19 @@ const String apiKey = "YOUR_API_KEY_HERE";
 flutter run
 ```
 ---
+
+## 📄 License
+
+This is an MVP project created for demonstration purposes.
+
+## 🤝 Contributing
+
+This is an MVP project. Feel free to fork and enhance with additional features!
+
+## 📞 Support
+
+For issues or questions, please open an issue in the repository.
+
+---
+
+Made with ❤️ by Denis using Flutter
