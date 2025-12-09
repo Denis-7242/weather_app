@@ -69,4 +69,4 @@ For issues or questions, please open an issue in the repository.
 
 ---
 
-Made with ❤️ by Denis using Flutter
+Made with ❤️ by Denis.
