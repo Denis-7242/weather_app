@@ -4,7 +4,14 @@ A simple and elegant Flutter weather application that displays real-time weather
 
 ---
 
+## 🚀 Features
 
+- 📍 **Real-time location detection**
+- ☀️ **Current weather** (temperature, humidity, wind speed, condition)
+- 📅 **5-day weather forecast**
+- 🎨 **Clean and modern Flutter UI**
+- 🔄 **Smooth data refresh**
+- 📱 Works on both **Android** and **iOS**
 
 ---
 
