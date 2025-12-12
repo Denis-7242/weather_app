@@ -69,4 +69,8 @@ For issues or questions, please open an issue in the repository.
 
 ---
 
+<<<<<<< HEAD
 Made with ❤️ by Denis
+=======
+Made with ❤️ by Denis using Flutter
+>>>>>>> a65f03977b375924c2a1a67e856dc4f13439ea0d
